@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "sqlite-chronicle",
+  "versions": [
+    {
+      "commit": "ee8d2a1db5090d14279f0acb56b5d46a5c50e44c",
+      "tag": "",
+      "parsed_at": "2026-10-28T18:49:22.270744+00:00"
+    }
+  ]
+}
