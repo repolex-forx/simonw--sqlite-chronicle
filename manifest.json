@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "sqlite-chronicle",
+  "versions": [
+    {
+      "commit": "ee8d2a1db5090d14279f0acb56b5d46a5c50e44c",
+      "parsed_at": "2026-10-28T18:47:12.236301+00:00",
+      "filetree": "filetree/ee8d2a1db5090d14279f0acb56b5d46a5c50e44c.nq.gz",
+      "blobs": [
+        "blob/dca69cd76c2f4cbb59cc80ecfae0e0959d609411.nq.gz",
+        "blob/47745894697f9ac8a5f7eb27156fa373c92c3742.nq.gz",
+        "blob/152886dd75604a6b45c24795792c004fa0d55096.nq.gz",
+        "blob/9ea765863e82622e551fd50a5bef1116ada177f5.nq.gz",
+        "blob/d655cea0ef87da4cecdb23d13b000ff1bc40543c.nq.gz",
+        "blob/72dd813218cdc8a87c7dc75f04e3cf5aa2b51754.nq.gz",
+        "blob/02a916d4bbed1720f974b78b2400b71ca85eb686.nq.gz",
+        "blob/dac6ebb41c57997e09f6c1be952fbe25d628fca7.nq.gz",
+        "blob/4da36f4e2eb817a8448f42b9131f9779bb858f89.nq.gz",
+        "blob/96cafb6fe78d31c36eb051241e56b3e0bf9836e3.nq.gz",
+        "blob/80ca58ed5d74ee7d088ecaca7ddae7d72f404d57.nq.gz",
+        "blob/7ae3fe97e80d8db843bea5820cd4b79e6a397666.nq.gz",
+        "blob/d0d5ce3ee8fa6494d61b4f902ee7d8de943e1b36.nq.gz",
+        "blob/d6f0c5142e5a1ffb223a6f406af9c98e0172ba74.nq.gz",
+        "blob/bfc17776c84de21c679b43dd4cbbb5a04c88df25.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
